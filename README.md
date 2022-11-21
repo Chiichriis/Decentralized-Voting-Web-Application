@@ -1,13 +1,13 @@
-This is my final year Project 
-Decentralized Voting Web Application
-#Title
-
+# Title
+---------------------------------------------------
 E-voting Appliction based on Blockchain Technology
 
-#Supervisor
-
+# Supervisor
+---------------------------------------------------
 Mr. Aminu Femi Enesi
 
-#Project By:
+# Project By:
+---------------------------------------------------
+**NAME:** Chinedu Christopher, OKORIE
+**MAT NO:** 2016/1/60943CT
 
-Chinedu Christopher, OKORIE
